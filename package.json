@@ -1,0 +1,14 @@
+{
+  "name": "onlineads",
+  "version": "1.0.0",
+  "description": "AngularJS App",
+  "main": "index.html",
+  "scripts": {
+    "start": "start-web-server.sh"
+  },
+  "repository": {
+    "url": "https://github.com/PetarShopov/OnlineAds.git"
+  },
+  "author": "PS",
+  "license": "ISC"
+}
