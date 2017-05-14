@@ -1,5 +1,5 @@
 'use strict';
-// The RegisterController is responsible for the "Register" screen
+// The RegisterController is responsible for the "Register" screen1
 
 app.controller('RegisterController', [
     '$scope',
